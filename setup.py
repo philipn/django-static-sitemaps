@@ -3,7 +3,7 @@ import static_sitemaps
 
 setup(
     name='django-static-sitemaps',
-    version=static_sitemaps.__versionstr__ + 'custom1',
+    version=static_sitemaps.__versionstr__ + '-custom1',
     description='',
     long_description='\n'.join((
         '',
